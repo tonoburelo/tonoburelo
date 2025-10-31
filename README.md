@@ -133,7 +133,7 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
 Estoy siempre abierto a conectar, colaborar o simplemente charlar. ¡No dudes en contactarme!
 
 <p align="center">
-  <a href="https://linkedin.com/in/josé-antonio-burelo-hernández/">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-antonio-burelo-hern%C3%A1ndez">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
