@@ -134,7 +134,7 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/tonoburelo/tonoburelo/main/dist/github-contribution-grid-snake.svg)
 
 ## 📫 Conectemos
 
