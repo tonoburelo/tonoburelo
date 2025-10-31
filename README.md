@@ -69,7 +69,7 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
   <tr>
    <td width="50%" valign="top">
       <h3>1. Sitio Web del INPI de Nacajuca</h3>
-      <p>Proyecto robusto para la gestión y automatización de los servicios del instituto.</p>
+     <p style="background-color: #f6f8fa; padding: 15px; border-radius: 6px; border-left: 4px solid #0366d6;">Proyecto robusto para la gestión y automatización de los servicios del instituto. Permite funcionalidades como la divulgación de contenido, la gestión completa de los diferentes de usuarios, un chatbot para una mejor navegación, el agendar citas con los departamentos, el administrar las citas desde un calendario personalizado para los encargados y el uso de un chat para hacer las citas virtuales.</p>
       <p><strong>Tecnologías:</strong></p>
       <!-- Los badges ahora son etiquetas <img> de HTML puro -->
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
