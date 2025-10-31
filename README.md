@@ -37,6 +37,7 @@ A continuación, las herramientas y lenguajes que manejo:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### Análisis de datos
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,10 +58,6 @@ A continuación, las herramientas y lenguajes que manejo:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### Herramientas y Otros
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ## 💡 Proyectos Destacados
@@ -70,7 +67,7 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
    <td width="50%" valign="top">
       <h3>1. Sitio Web del INPI de Nacajuca</h3>
      <p style="background-color: #f6f8fa; padding: 15px; border-radius: 6px; border-left: 4px solid #0366d6;">Proyecto robusto para la gestión y automatización de los servicios del instituto. Permite funcionalidades como la divulgación de contenido, la gestión completa de los diferentes de usuarios, un chatbot para una mejor navegación, el agendar citas con los departamentos, el administrar las citas desde un calendario personalizado para los encargados y el uso de un chat para hacer las citas virtuales.</p>
-      <p><strong>Tecnologías:</strong></p>
+      <p><strong>TECNOLOGIAS:</strong></p>
       <!-- Los badges ahora son etiquetas <img> de HTML puro -->
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       &nbsp;
@@ -85,17 +82,21 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
       &nbsp;
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-      <br><br>
-      <p>
-        <a href="https://github.com/tonoburelo/Sitio-Web-INPI-de-Nacajuca">Ver Código</a> | 
-        <a href="[Enlace al Deploy/Demo]">Ver Demo</a>
-      </p>
+      <hr style="border: 0; border-top: 1px solid #d1d5da; margin: 20px 0;">
+      <!-- ======== SECCIÓN MODIFICADA ======== -->
+      <a href="https://github.com/tonoburelo/Sitio-Web-INPI-de-Nacajuca">
+        <img src="https://img.shields.io/badge/Ver%20Código-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+      </a> 
+      <a href="[Enlace al Deploy/Demo]">
+        <img src="https://img.shields.io/badge/Ver%20Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo">
+      </a>
+      <!-- ======== FIN DE LA SECCIÓN MODIFICADA ======== -->
   </td>
   <td width="50%" valign="top">
       <img 
         src="https://raw.githubusercontent.com/tonoburelo/Sitio-Web-INPI-de-Nacajuca/main/Sitio%20Web%20INPI%20de%20Nacajuca%20im%C3%A1genes/Im%C3%A1gen%20INPI%20mujeres%20indigenas%20y%20afromexicanas.png"
         alt="Demo del Proyecto 1"
-        style="width:100%; height:400px; object-fit:cover; border-radius:8px;"
+        style="width:100%; height:450px; object-fit:cover; border-radius:8px;"
       >
   </td>
   </tr>
@@ -103,18 +104,22 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
     <td width="50%" valign="top">
       <h3>2. Aplicación para aprender Typing</h3>
       <p>Programa en Java para aprender mecanografía, primero te enseña la teoría mediante un tutorial y luego te permite prácticar haciendo ejercicios de mecanografía cada vez más dificiles.</p>
-      <p><strong>Tecnologías:</strong></p>
+      <p><strong>TECNOLOGIAS:</strong></p>
       <!-- Los badges ahora son etiquetas <img> de HTML puro -->
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle-java&logoColor=white" alt="Java">
       &nbsp;
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
       &nbsp;
       <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=netbeanside&logoColor=white" alt="NetBeans">
-      <br><br>
-      <p>
-        <a href="https://github.com/tonoburelo/AplicacionAprenderTyping">Ver Código</a> | 
-        <a href="[Enlace al Deploy/Demo]">Ver Demo</a>
-      </p>
+       <hr style="border: 0; border-top: 1px solid #d1d5da; margin: 20px 0;">
+      <!-- ======== SECCIÓN MODIFICADA ======== -->
+      <a href="https://github.com/tonoburelo/AplicacionAprenderTyping">
+        <img src="https://img.shields.io/badge/Ver%20Código-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+      </a>
+      <a href="[Enlace al Deploy/Demo]">
+        <img src="https://img.shields.io/badge/Ver%20Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo">
+      </a>
+      <!-- ======== FIN DE LA SECCIÓN MODIFICADA ======== -->
     </td>
     <td width="50%" valign="top">
       <img 
