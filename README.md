@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Habilidades y Tecnologías
+## 🛠️ Habilidades y Tecnologías
 
 A continuación, las herramientas y lenguajes que manejo:
 
