@@ -37,9 +37,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           # Opcional: paleta de colores para la serpiente
-            snake_color: green
+            #snake_color: green
           # Opcional: paleta de colores para las "manzanas"
-            apple_color: red
+            #apple_color: red
 
       # Paso 3: Sube el archivo SVG generado al repositorio
       - name: Push snake.svg to the output branch
