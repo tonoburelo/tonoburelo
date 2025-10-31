@@ -126,7 +126,7 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
       <img 
         src="https://raw.githubusercontent.com/tonoburelo/AplicacionAprenderTyping/main/TypingApp%20im%C3%A1genes/TypingApp%20im%C3%A1gen.png"
         alt="Demo del Proyecto 2"
-        style="width:100%; height:300px; object-fit:cover; border-radius:8px;"
+        style="width:100%; height:340px; object-fit:cover; border-radius:8px;"
       >
     </td>
   </tr>
