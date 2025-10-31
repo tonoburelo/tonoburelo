@@ -104,7 +104,7 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
   <tr>
     <td width="50%" valign="top">
       <h3>2. Aplicación para aprender Typing</h3>
-      <p>Programa en Java para aprender mecanografía, primero te enseña la teoría mediante un tutorial y luego te permite prácticar haciendo ejercicios de mecanografía cada vez más dificiles.</p>
+      <p>Programa en Java para aprender mecanografía, primero te enseña la teoría mediante un tutorial completo donde se ven todas las reglas necesarias para un typing apropiado y luego te permite hacer práctica deliverada haciendo ejercicios de mecanografía cada vez más dificiles y con feedback al finalizar.</p>
       <p><strong>TECNOLOGIAS:</strong></p>
       <!-- Los badges ahora son etiquetas <img> de HTML puro -->
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle-java&logoColor=white" alt="Java">
