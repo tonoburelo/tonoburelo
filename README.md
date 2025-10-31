@@ -4,6 +4,7 @@
 <h3 align="center">
 💻 Data Entusiasta | AI Learner | Jr. Developer
 </h3>
+
   ![Snake animation](https://raw.githubusercontent.com/tonoburelo/tonoburelo/main/dist/github-contribution-grid-snake.svg)
   <!-- 
   <p align="center">
@@ -12,7 +13,6 @@
   </p>
   -->
 ---
-
 ## 🚀 Sobre Mí
 * 🌱 Actualmente estoy sumergido en el mundo de los datos **Análisis de datos, Machine/Deep Learning e Ingeniería de datos**, pero también tengo conocimiento de **Desarrollo de software**.
 * 💻 Me gusta escribir, leer y aprender sobre los temas de **Filosofía y Tecnología**.
