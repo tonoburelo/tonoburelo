@@ -114,7 +114,7 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
       <img src="https://img.shields.io/badge/Seaborn-3E8E9E?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
       <hr style="border: 0; border-top: 1px solid #d1d5da; margin: 20px 0;">
       <!-- ======== SECCIÓN MODIFICADA ======== -->
-      <a href="https://github.com/tonoburelo/AplicacionAprenderTyping">
+      <a href="https://github.com/tonoburelo/Proyecto_Comportamiento_de_clientes--KMeans_Clustering">
         <img src="https://img.shields.io/badge/Ver%20Código-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
       </a>
       <a href="[Enlace al Deploy/Demo]">
