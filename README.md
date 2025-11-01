@@ -103,7 +103,36 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>2. Aplicación para aprender Typing</h3>
+      <h3>2. Entender comportamiento de clientes con Machine Learning</h3>
+      <p>Proyecto en Python usando el algoritmo de aprendizaje no supervisado KMeans Clustering para analizar un dataset de las ventas de un ecommerce.</p>
+      <p><strong>TECNOLOGIAS:</strong></p>
+      <!-- Los badges ahora son etiquetas <img> de HTML puro -->
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+      <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-3E8E9E?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+      <hr style="border: 0; border-top: 1px solid #d1d5da; margin: 20px 0;">
+      <!-- ======== SECCIÓN MODIFICADA ======== -->
+      <a href="https://github.com/tonoburelo/AplicacionAprenderTyping">
+        <img src="https://img.shields.io/badge/Ver%20Código-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+      </a>
+      <a href="[Enlace al Deploy/Demo]">
+        <img src="https://img.shields.io/badge/Ver%20Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo">
+      </a>
+      <!-- ======== FIN DE LA SECCIÓN MODIFICADA ======== -->
+    </td>
+    <td width="50%" valign="top">
+      <img 
+        src="https://github.com/tonoburelo/Proyecto_Comportamiento_de_clientes--KMeans_Clustering/blob/main/Comportamiento%20de%20clientes%20-KMeans%20Clustering/Im%C3%A1gen%20Gr%C3%A1fica%203D%20de%20Clusters.png"
+        alt="Demo del Proyecto 2"
+        style="width:100%; height:330px; object-fit:cover; border-radius:8px;"
+      >
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>3. Aplicación para aprender Typing</h3>
       <p>Programa en Java para aprender mecanografía, primero te enseña la teoría mediante un tutorial completo donde se ven todas las reglas necesarias para un typing apropiado y luego te permite hacer práctica deliverada haciendo ejercicios de mecanografía cada vez más dificiles y con feedback al finalizar.</p>
       <p><strong>TECNOLOGIAS:</strong></p>
       <!-- Los badges ahora son etiquetas <img> de HTML puro -->
