@@ -126,7 +126,7 @@ Estos son algunos de los proyectos de los que estoy más orgulloso.
       <img 
         src="https://github.com/tonoburelo/Proyecto_Comportamiento_de_clientes--KMeans_Clustering/blob/main/Comportamiento%20de%20clientes%20-KMeans%20Clustering/Im%C3%A1gen%20Gr%C3%A1fica%203D%20de%20Clusters.png"
         alt="Demo del Proyecto 2"
-        style="width:100%; height:330px; object-fit:cover; border-radius:8px;"
+        style="width:100%; height:340px; object-fit:cover; border-radius:8px;"
       >
     </td>
   </tr>
